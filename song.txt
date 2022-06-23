@@ -1,3 +1,4 @@
 first half
 second half
 commit feature 1
+commit feature 1
